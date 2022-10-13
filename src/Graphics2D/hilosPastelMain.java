@@ -1,3 +1,4 @@
+package Graphics2D;
 import javax.swing.*;
 import java.awt.*;
 

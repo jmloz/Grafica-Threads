@@ -1,3 +1,4 @@
+package Graphics2D;
 public class hilosPastelito implements Runnable{
     private int ventasAleatorias1;
     private int ventasAleatorias2;
